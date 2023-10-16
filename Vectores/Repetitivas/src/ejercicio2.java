@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio2 {
+public class Ejercicio2 {
     /* En una tabla de 4 filas y 4 columnas se guardan las notas de 4 alumnos de secundaria. Cada fila corresponde a las notas 
      * y al primedio de cada alumno. Se necesita un programa que permita a un profesor cargar, en las 3 posiciones (columnas) 
      * de cada fila, las notas del alumno y que en la última columna se calculen los promedios. Una vez realizados los cálculos,
